@@ -1,0 +1,15 @@
+@media (min-width: 1024px) {
+  .top-navigation .trigram {
+    display: none;
+  }
+
+  /* 👇👇👇 Add the styles that belong to the DESKTOP view only beneath 👇👇👇 */
+}
+
+@media (max-width: 1023px) {
+  /* 👇👇👇 Add the styles that are common within the TABLET and MOBILE views beneath 👇👇👇 */
+}
+
+@media (max-width: 767px) {
+  /* 👇👇👇 Add the styles that belong to the MOBILE view only beneath 👇👇👇 */
+}
