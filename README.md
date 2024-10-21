@@ -4,10 +4,11 @@
 
 In this task, you'll be enhancing the visual appeal of the corporate website for tablets and mobile devices by applying your expertise in responsive layouts.
 
-Please, visit the following resource prior to getting started:
+Please, visit the following resources prior to getting started:
 
 - The [Figma mockup for the Responsive Website](https://www.figma.com/design/onIbYtgBAXK2ithgviZdF0/Responsive-Website?node-id=0-1&m=dev&t=ldEFp2YUPoQOgefG-1)
-- [The Responsive Website INTRO video]()
+- The [Responsive Website INTRO video](https://www.loom.com/share/c4906ee2d0744a06ac667e3ff4a14279?sid=810fcad2-fb13-46d6-a399-d3ee15a088e2)
+- The [Responsive tag page](https://www.w3schools.com/html/html_responsive.asp) at w3schools documentation.
 
 ## Learning objectives
 
@@ -38,6 +39,10 @@ Acceptance criteria:
 
 - [ ] The responsive HTML meta tag is set.
 - [ ] The website should replicate the mockup for desktop, tablet, and mobile views, incorporating all aspects such as fonts, font sizes, colors, paddings, margins, gaps, etc.
+- [ ] The hover styles are added for the desktop view for:
+  - The top navigation items
+  - The social icons of the teammate
+  - The links in the footer (social icons and labels, emails, phone numbers)
 - [ ] The index.html file must remain unchanged.
 - [ ] The styles.css file should remain unaltered. Any necessary styles should be appended to the /css/responsive.css file.
 - [ ] Media queries should address the following viewport ranges:
